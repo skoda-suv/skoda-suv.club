@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1366" height="800" viewBox="0 0 1366 800">
+    <defs>
+        <linearGradient id="a" x1="70.759%" x2="-12.128%" y1="36.822%" y2="55.563%">
+            <stop offset="0%" stop-color="#FFF"/>
+            <stop offset="100%" stop-color="#A2A2A2" stop-opacity=".5"/>
+        </linearGradient>
+        <radialGradient id="b" cx="100%" cy="0%" r="197.505%" fx="100%" fy="0%" gradientTransform="matrix(-.50632 .50632 -.29728 -.86235 1.506 -.506)">
+            <stop offset="0%" stop-color="#585858"/>
+            <stop offset="100%" stop-color="#4A4A4A"/>
+        </radialGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#000" fill-opacity=".92" d="M0 0h1366v800H0z"/>
+        <path fill="url(#a)" d="M0 128.177h1366v235.359L686.558 560.705 0 800z" opacity=".1" style="mix-blend-mode:screen" transform="matrix(1 0 0 -1 0 928.177)"/>
+        <path fill="url(#b)" d="M285.752 165.746H1366V800L686.338 597.79z" opacity=".6" style="mix-blend-mode:multiply" transform="matrix(1 0 0 -1 0 965.746)"/>
+    </g>
+</svg>

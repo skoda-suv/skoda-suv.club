@@ -539,8 +539,7 @@ hr {
 
 @font-face {
     font-family: "icomoon";
-    src: url(./media/icomoon.d708940c.eot);
-    src: url(./media/icomoon.d708940c.eot#iefix) format("embedded-opentype"), url(./media/icomoon.4a252c2d.ttf) format("truetype");
+    src: url(./media/icomoon.4a252c2d.ttf) format("truetype");
     font-weight: 400;
     font-style: normal;
     font-display: block

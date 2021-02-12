@@ -160,6 +160,48 @@ a.cwpbtn--sizeM .button__label {
     }
 }
 
+.footer__contact-label {
+    font-size: 8px;
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.25;
+    letter-spacing: 1.6px;
+    padding-bottom: 5px
+}
+
+.footer__contact-phone {
+    font-size: 16px;
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: .88;
+    letter-spacing: .12px;
+    color: #fff
+}
+
+.footer__contact-phone:hover {
+    color: #fff
+}
+
+@media (max-width: 991px) {
+    .footer__links_stores {
+        padding: 20px 0
+    }
+}
+
+.footer__links_stores > a > img {
+    width: 94px;
+    height: 28px
+}
+
+@media (max-width: 575px) {
+    .footer__links_stores > a > img {
+        width: 118px;
+        height: 35px
+    }
+}
+
 .footer__phone-col {
     min-width: 200px
 }

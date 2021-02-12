@@ -859,11 +859,6 @@ hr {
 
 /*noinspection CssUnusedSymbol*/
 
-.close:not(:disabled):not(.disabled):focus, .close:not(:disabled):not(.disabled):hover {
-    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
-    opacity: .75
-}
-
 @supports (position:sticky) {
 }
 

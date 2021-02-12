@@ -52,7 +52,9 @@ html {
     margin: 115px 0 35px;
     text-decoration: none !important;
     color: #FFFFFF;
-    padding: 8px 0;
+    padding: 6px 0;
+    -webkit-appearance: none !important;
+    display: inline-block;
 }
 
 @media (min-width: 576px) {
@@ -106,8 +108,17 @@ a.cwpbtn--sizeM .button__label {
 
 .cwpbtn--type-primary-dark {
     color: #fff;
-    background-color: #4ba82e
+    background-color: #4ba82e;
+    transition: all 0.25s ease;
+    border: 1px solid #4ba82e;
 }
+
+.cwpbtn--type-primary-dark:hover,
+.cwpbtn--type-primary-dark:active,
+.cwpbtn--type-primary-dark:focus {
+    background: transparent;
+}
+
 
 @media (min-width: 576px) {
 }

@@ -186,19 +186,19 @@ a.cwpbtn--sizeM .button__label {
 
 @media (max-width: 991px) {
     .footer__links_stores {
-        padding: 20px 0
+        padding: 18px 0
     }
 }
 
 .footer__links_stores > a > img {
-    width: 64px;
-    height: 28px
+    width: 40px;
+    height: 18px
 }
 
 @media (max-width: 575px) {
     .footer__links_stores > a > img {
         width: 118px;
-        height: 35px
+        height: 18px
     }
 }
 

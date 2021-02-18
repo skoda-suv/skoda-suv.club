@@ -565,3 +565,7 @@ hr {
 .skoda-social__github:before {
     content: "\eab0"
 }
+
+.skoda-social__youtube:before {
+    content: "\ea9e"
+}

@@ -9,7 +9,7 @@ html {
 .main.main--login {
     flex-direction: row;
     align-items: center;
-    background: url(https://skoda-suv.club/additionals/media/login-background.6b0b0bdf.svg) no-repeat 50% scroll;
+    background: url(./media/login-background.6b0b0bdf.svg) no-repeat 50% scroll;
     background-size: cover
 }
 
